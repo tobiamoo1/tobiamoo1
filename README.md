@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tobiamoo1
-- 👀 I’m interested in developing a career in cloud computing
-- 🌱 I’m currently learning on builiding well-architected cloud frameworks 
-- 💞️ I’m looking to collaborate on exciting cloud projects
+- 👋 Hi, I’m 'Tobi Amoo
+- 👀 I’m interested in developing a career in data analysis
+- 🌱 I’m currently working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
+- 💞️ I’m looking to collaborate on exciting data anaylsis projects
 - 📫 How to reach me jesutobi.amoo@gmail.com
 
 <!---
