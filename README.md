@@ -97,7 +97,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <li>
   <strong>Clinical Data Analysis:</strong> 
   <a href="https://github.com/tobiamoo1/Clinical-Trial-Data-Analysis">REPO LINK</a> | 
-  <a href="PROJECT_1_LIVE_URL">LIVE DEMO</a></li>
+  <a href="https://github.com/tobiamoo1/Clinical-Trial-Data-Analysis/blob/main/Clinical%20Trial%20Data%20code.ipynb">LIVE DEMO</a></li>
   <li><strong>Project 2:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
   <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
 </ul>
