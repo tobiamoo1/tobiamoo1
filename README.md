@@ -80,7 +80,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username
+  <img src="https://ghchart.rshah.org/tobiamoo1
 " alt="GitHub Contribution Chart" />
 </p>
 
