@@ -85,7 +85,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Users&theme=default" alt="GitHub Streak" width="40%">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tobiamoo1" alt="GitHub Streak" /></a>
 </div>
 
 ---
