@@ -116,11 +116,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="YOUR LINKDIN URL" target="_blank">
+  <a href="https://www.linkedin.com/in/tobi-amoo-6a245827/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="YOUR_EMAIL_HERE">
+  <a href="jesutobi.amoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 <!-- Facebook
