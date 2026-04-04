@@ -98,7 +98,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <strong>Clinical Data Analysis:</strong> 
   <a href="https://github.com/tobiamoo1/Clinical-Trial-Data-Analysis">REPO LINK</a> | 
   <a href="https://github.com/tobiamoo1/Clinical-Trial-Data-Analysis/blob/main/Clinical%20Trial%20Data%20code.ipynb">LIVE DEMO</a></li>
-  <li><strong>Project 2:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
+  <li><strong>Environmental Data Analysis:</strong> <a href="https://github.com/tobiamoo1/Environmental-Data-Analysis">REPO LINK</a> | <a href="https://github.com/tobiamoo1/Environmental-Data-Analysis/blob/main/Environmental%20Data%20Analysis%20code.ipynb">LIVE DEMO</a></li>
   <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
 </ul>
 
