@@ -95,7 +95,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 <ul>
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
+  <strong>Clinical Data Analysis:</strong> 
   <a href="https://github.com/LEWIS872/test-repo">REPO LINK</a> | 
   <a href="PROJECT_1_LIVE_URL">LIVE DEMO</a></li>
   <li><strong>Project 2:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
