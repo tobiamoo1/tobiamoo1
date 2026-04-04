@@ -4,7 +4,7 @@
 </p>
 -->
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
+<h1 align="center">Hi, I'm 'Tobi Amoo</h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 
 ---
