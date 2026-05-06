@@ -101,6 +101,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <li><strong>Environmental Data Analysis:</strong> <a href="https://github.com/tobiamoo1/Environmental-Data-Analysis">REPO LINK</a> | <a href="https://github.com/tobiamoo1/Environmental-Data-Analysis/blob/main/Environmental%20Data%20Analysis%20code.ipynb">LIVE DEMO</a></li>
   <li><strong>Exploratory Data Analysis:</strong> <a href="https://github.com/tobiamoo1/Exploratory-Data-Analysis">REPO LINK</a> | <a href="https://github.com/tobiamoo1/Exploratory-Data-Analysis/blob/main/Python%20Code.ipynb">LIVE DEMO</a></li>
   <li><strong>Sales Data Analysis:</strong> <a href="https://github.com/tobiamoo1/Sales-Data-Analysis">REPO LINK</a> | <a href="https://public.tableau.com/views/SalesDashboard_17767263704500/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">LIVE DEMO</a></li>
+    <li><strong>F1 Data Analysis:</strong> <a href="https://github.com/tobiamoo1/F1-Data-Analysis">REPO LINK</a> | <a href="https://public.tableau.com/views/SalesDashboard_17767263704500/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">LIVE DEMO</a></li>
 </ul>
 
 ---
